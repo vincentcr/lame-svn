@@ -1,0 +1,16 @@
+*.la
+*.lo
+*.so
+*.so.*
+Makefile
+.deps
+.libs
+
+lame/a.out*
+lame/config.h
+lame/config.log
+lame/config.status
+lame/lame.spec
+lame/libtool
+lame/stamp-h1
+lame/wdist/
